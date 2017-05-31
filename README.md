@@ -8,7 +8,7 @@ Utilizing:
 
 How To Try it out:
 =============
->visit hub.docker.com/r/fikun
+Visit: hub.docker.com/r/fikun
 
 
 

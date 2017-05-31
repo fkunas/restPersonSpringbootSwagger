@@ -8,7 +8,7 @@ Utilizing:
 
 How To Try it out:
 =============
->docker run -t -d -p 8080:8080 --name springbootpersons fikun/springbootpersons
+>docker run -t -d -p 8080:8080 --name springbootpersons fikun/restpersonspringbootswagger
 
 + Retrieve Swagger Documentation from: **localhost:8080/swagger-ui.html**
 

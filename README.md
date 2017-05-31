@@ -8,7 +8,6 @@ Utilizing:
 
 How To Try it out:
 =============
-Visit: hub.docker.com/r/fikun
-
+[Get the compiled Docker-Image](https://hub.docker.com/r/fikun) or just build it yourself.
 
 
